@@ -19,6 +19,7 @@
 .container div.header {
   grid-area: header;
   text-align: center;
+  font-size: xx-large;
 }
 
 .container div.menu {
